@@ -1,0 +1,16 @@
+number = input("Enter Number:")
+number2 = input("Enter Number:")
+number3 = input("Enter Number:")
+number4 = input("Enter Number:")
+number5 = input("Enter Number:")
+
+print("The average of the following numbers")
+
+print(number)
+print(number2)
+print(number3)
+print(number4)
+print(number5)
+average = (number + number2 + number3 + number4 + number5)
+print("The Average is:")
+print(number3)
